@@ -1,4 +1,4 @@
-Thank you for trying this pack out!
+Thank you for trying this pack out! Make sure you change your in-game language to toki pona (ma ali) once the resource pack is loaded.
 
 This translation includes some uncommon definitions and pu ala vocabulary. See below:
 - alasa v search
