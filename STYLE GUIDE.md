@@ -13,6 +13,7 @@ Some roots have taken on niche or slightly ante meanings:
 - mani *n* metal or crystal
 - mun *mod* silvery
 - poki *v* save, store
+- pu *n* book... makes things a lot simpler
 - supa *mod* flat (and horizontal), e.g. *palisa supa* 'planks'
 - tu *v* split, halve. Needed to differentiate swords *ilo kipisi* from axes *ilo tu*
 - wan *v* join
