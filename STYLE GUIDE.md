@@ -29,3 +29,8 @@ Finally, overly technical language is left untranslated, including:
 - command feedback
 - structure blocks
 - complex terms like Unicode, OpenGL or Mipmap
+- f3, shift and other keynames since they can be interpretated pictographically
+
+Misc:
+- numbers are represented with arabic numerals, never with wan, tu, luka etc
+- punctuation includes . , : ' ! ? and is followed by spaces in sitelen sitelen
