@@ -1,4 +1,4 @@
-# Minecraft-Toki-Pona-Translation
+# Why bring toki pona and Minecraft together?
 
 Toki Pona is a relatively popular conlang ('constructed language') made by the linguist Sonja Lang. It is extremely minimalist, having a very simple grammar and a lexicon of only 123 words plus a handful of unofficial ones. This makes it very easy to learn but a puzzle to use since frozen compounds are highly discouraged.
 
