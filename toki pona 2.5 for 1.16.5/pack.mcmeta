@@ -1,0 +1,13 @@
+{
+   "pack": {
+      "pack_format": 6,
+      "description": "Toki Pona language pack for 1.16, designed for survival play"
+   },
+   "language": {
+      "tp_2.5": {
+         "name": "toki pona",
+         "region": "ma ali",
+         "bidirectional": false
+      }
+   }
+}
