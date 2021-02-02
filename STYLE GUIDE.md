@@ -1,8 +1,8 @@
 # Translation Style Guide - jan Pipi Laso
 
 I've been using the 120 official words, plus:
-- pre-pu monsuta, kipisi, leko and pake
-- post-pu soko and taki, considering usawi
+- pre-pu monsuta, kipisi, leko, pake and powe
+- post-pu soko and taki, possibly usawi
 
 Some roots have taken on niche or slightly ante meanings:
 - alasa *v* search
