@@ -19,11 +19,10 @@ Some roots have taken on niche or slightly ante meanings:
 - soko *v* explode, as mushrooms do with their spores
 - taki *n* sticky substance. Needed to differentiate sugar *ko suwi* and honey *taki suwi*
 
-I've tried to minimise loan words but many are simply convenient, e.g.
+I've tried to minimise loan words but have kept many for convenience, e.g.
 - *monsuta Kipa,* since the creeper is so iconic
 - *poki Potu* 'bottle,' helps differentiate containers especially considering 1.17 bundles
-- *mani Kopa* 'copper' and *mani Amesi* 'amethyst' since they are clumsy to describe  
-If any can be eliminated without using overly clumsy compounds, I'm always looking to reduce loan words!
+- *mani Kopa* 'copper' and *mani Amesi* 'amethyst' since they are clumsy to describe
 
 Finally, overly technical language is left untranslated, including:
 - command feedback
