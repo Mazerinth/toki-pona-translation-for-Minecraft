@@ -4620,7 +4620,7 @@
   "pack.source.builtin": "built-in",
   "pack.source.world": "ma",
   "pack.source.local": "local",
-  "pack.source.server": "ma kulupu"",
+  "pack.source.server": "ma kulupu",
   
   "_comment": "Nature's Compass mod compat",
   "item.naturescompass.naturescompass": "ma nasin",
