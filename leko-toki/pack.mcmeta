@@ -1,7 +1,7 @@
 {
    "pack": {
-      "pack_format": 6,
-      "description": "toki pona language pack for 1.16.5 by jan Masewin"
+      "pack_format": 8,
+      "description": "toki pona language pack for 1.16.5 (And above) by jan Masewin"
    },
    "language": {
       "tp_ma": {
